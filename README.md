@@ -1,0 +1,2 @@
+# RubyObsidian
+My Obsidian Folder
