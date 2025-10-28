@@ -1,3 +1,3 @@
 # RubyObsidian
 My Obsidian Folder
-All knowledge will be here!!
+All knowledge will be here!!!
