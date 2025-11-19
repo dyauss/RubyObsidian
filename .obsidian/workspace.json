@@ -169,6 +169,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "3cc4cec82a2db577",
   "lastOpenFiles": [
     "TI/Backend/Docker.md",
@@ -176,6 +177,11 @@
     "TI/Backend/Ruby/Ruby Development on Zed.md",
     "TI/Planetun/Geral.md",
     "TI/Mobile/Flutter.md",
+=======
+  "active": "b816effd7632149c",
+  "lastOpenFiles": [
+    "README.md",
+>>>>>>> Stashed changes
     "Crypto/Binance/Virtual.md.md",
     "Crypto/Binance/Moedas.md.md",
     "TI/Youse/InspectionService/Untitled.canvas",
