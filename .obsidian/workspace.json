@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "636832d8f0c0d15b",
+        "id": "91207b57fd78e2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "a56980c65e62ced3",
+            "id": "3cc4cec82a2db577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "TI/Backend/Ruby/Ruby Development on Zed.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ruby Development on Zed"
             }
           }
         ]
@@ -169,10 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "a56980c65e62ced3",
+  "active": "3cc4cec82a2db577",
   "lastOpenFiles": [
+    "TI/Backend/Docker.md",
+    "TI/Backend/Ruby/Ruby Synthax.md",
+    "TI/Backend/Ruby/Ruby Development on Zed.md",
+    "TI/Planetun/Geral.md",
+    "TI/Mobile/Flutter.md",
     "Crypto/Binance/Virtual.md.md",
     "Crypto/Binance/Moedas.md.md",
+    "TI/Youse/InspectionService/Untitled.canvas",
+    "TI/Youse/InspectionService",
+    "TI/Youse",
+    "README.md",
     "Crypto/Binance",
     "Crypto"
   ]
