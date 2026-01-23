@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TI/Backend/Ruby/Ruby Development on Zed.md",
-                "mode": "preview",
+                "file": "TI/Backend/Docker.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruby Development on Zed"
+              "title": "Docker"
             }
           }
         ]
@@ -171,14 +171,14 @@
   },
   "active": "3cc4cec82a2db577",
   "lastOpenFiles": [
-    "TI/Backend/Docker.md",
     "TI/Backend/Ruby/Ruby Synthax.md",
     "TI/Backend/Ruby/Ruby Development on Zed.md",
-    "TI/Planetun/Geral.md",
+    "TI/Youse/InspectionService/Untitled.canvas",
+    "TI/Backend/Docker.md",
     "TI/Mobile/Flutter.md",
+    "TI/Planetun/Geral.md",
     "Crypto/Binance/Virtual.md.md",
     "Crypto/Binance/Moedas.md.md",
-    "TI/Youse/InspectionService/Untitled.canvas",
     "TI/Youse/InspectionService",
     "TI/Youse",
     "README.md",
