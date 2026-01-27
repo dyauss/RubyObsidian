@@ -1,41 +1,66 @@
 {
   "main": {
-    "id": "931d717bafee3385",
+    "id": "2a85cc65fa5e3035",
     "type": "split",
     "children": [
       {
-        "id": "91207b57fd78e2d5",
+        "id": "43057aa2f83e6081",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc4cec82a2db577",
+            "id": "2110b10b01a41a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TI/Backend/Ruby/Ruby Development on Zed.md",
-                "mode": "preview",
+                "file": "Crypto/Binance/Moedas.md.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruby Development on Zed"
+              "title": "Moedas.md"
+            }
+          },
+          {
+            "id": "39dbe154d818022c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.4"
+            }
+          },
+          {
+            "id": "3c7e9719c71c2bb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "de9b5716e9169381",
+    "id": "932b64fad1d2a285",
     "type": "split",
     "children": [
       {
-        "id": "ba12c58defb15980",
+        "id": "8984d5ab5eb3bfa6",
         "type": "tabs",
         "children": [
           {
-            "id": "a01e38cb6006d1c3",
+            "id": "7e3d8a8c5c3ce228",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +69,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "bee7ca25435c4fa5",
+            "id": "82c91f570765ee12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +86,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "7d13d65a077692a9",
+            "id": "da2a4b5d0eb02686",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,20 +106,19 @@
     "width": 300
   },
   "right": {
-    "id": "b751661262e8be05",
+    "id": "aa8cc5f981455beb",
     "type": "split",
     "children": [
       {
-        "id": "77d71c26f620679e",
+        "id": "7abe574f8d516e32",
         "type": "tabs",
         "children": [
           {
-            "id": "a5f05efc4003c302",
+            "id": "9007b00fad3d0e02",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +128,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "37ea15df9db7af72",
+            "id": "6fff5374b721f92b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "a92681068593a8f4",
+            "id": "50c8f79c0c916c9c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +160,17 @@
             }
           },
           {
-            "id": "fafc1c190a0b0a26",
+            "id": "f2a128ecc1920bae",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Sumário"
             }
           }
         ]
@@ -160,35 +182,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "3cc4cec82a2db577",
+  "active": "3c7e9719c71c2bb0",
   "lastOpenFiles": [
-    "TI/Backend/Docker.md",
-    "TI/Backend/Ruby/Ruby Synthax.md",
     "TI/Backend/Ruby/Ruby Development on Zed.md",
-    "TI/Planetun/Geral.md",
-    "TI/Mobile/Flutter.md",
-=======
-  "active": "b816effd7632149c",
-  "lastOpenFiles": [
-    "README.md",
->>>>>>> Stashed changes
-    "Crypto/Binance/Virtual.md.md",
     "Crypto/Binance/Moedas.md.md",
-    "TI/Youse/InspectionService/Untitled.canvas",
-    "TI/Youse/InspectionService",
-    "TI/Youse",
-    "README.md",
-    "Crypto/Binance",
-    "Crypto"
+    "Crypto/Binance/Virtual.md.md",
+    "TI/Backend/Docker.md"
   ]
 }

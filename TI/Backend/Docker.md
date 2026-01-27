@@ -9,5 +9,5 @@ Comandos dentro do makefile
 ## Run single test
 
 ```
-bundle exec rspec --pattern "./spec/services/bra/auto/vehicle_prescription_service_spec.rb"
+bundle exec rspec --pattern "./spec/models/auto/tracker_inspection_prescriber_spec.rb"
 ```
